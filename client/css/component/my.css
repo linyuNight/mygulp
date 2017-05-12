@@ -1,0 +1,120 @@
+.daimai-top10-right .device {
+  width: 660px;
+  position: relative;
+  height: 250px; }
+
+.daimai-top10-right .device .arrow-left {
+  background: url(img/arrows.png) no-repeat left top;
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  margin-top: -15px;
+  width: 17px;
+  height: 30px; }
+
+.daimai-top10-right .device .arrow-right {
+  background: url(img/arrows.png) no-repeat left bottom;
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  margin-top: -15px;
+  width: 17px;
+  height: 30px; }
+
+.daimai-top10-right .swiper-container {
+  width: 660px;
+  height: 250px;
+  color: #fff;
+  background: #222;
+  text-align: center; }
+
+.daimai-top10-right .swiper-slide {
+  height: 100%;
+  opacity: 0.4;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
+  /*-webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform: scale(0);*/
+  -webkit-transform: scale(0.8);
+  -moz-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  transform: scale(0.8); }
+
+.daimai-top10-right .swiper-slide-visible {
+  opacity: 0.5;
+  -webkit-transform: scale(0.8);
+  -moz-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  transform: scale(0.8); }
+
+.daimai-top10-right .swiper-slide-active {
+  top: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  transform: scale(1); }
+
+.daimai-top10-right .red-slide {
+  background: #ca4040; }
+
+.daimai-top10-right .blue-slide {
+  background: #4390ee; }
+
+.daimai-top10-right .orange-slide {
+  background: #ff8604; }
+
+.daimai-top10-right .green-slide {
+  background: #49a430; }
+
+.daimai-top10-right .pink-slide {
+  background: #973e76; }
+
+.daimai-top10-right .swiper-slide .title {
+  font-style: italic;
+  font-size: 42px;
+  margin-top: 80px;
+  margin-bottom: 0;
+  line-height: 45px; }
+
+.daimai-top10-right .pagination {
+  position: absolute;
+  z-index: 20;
+  left: 0px;
+  width: 100%;
+  text-align: center;
+  bottom: 5px; }
+
+.daimai-top10-right .swiper-pagination-switch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 8px;
+  background: #aaa;
+  margin-right: 8px;
+  cursor: pointer;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
+  opacity: 0;
+  position: relative;
+  top: -50px; }
+
+.daimai-top10-right .swiper-visible-switch {
+  opacity: 1;
+  top: 0;
+  background: #aaa; }
+
+.daimai-top10-right .swiper-active-switch {
+  background: #fff; }

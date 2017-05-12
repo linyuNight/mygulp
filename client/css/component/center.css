@@ -1,0 +1,94 @@
+.menber-center-contain {
+  width: 100%;
+  min-width: 1200px;
+  padding-top: 28px;
+  padding-bottom: 37px; }
+  .menber-center-contain .menber-center-main {
+    margin: 0 auto;
+    width: 1200px;
+    height: auto; }
+    .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain {
+      width: 100%;
+      height: auto;
+      border-bottom: 1px solid #e5e5e5; }
+      .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain .vip-level-space {
+        width: 100%;
+        height: 20px;
+        border-bottom: 1px solid #e5e5e5; }
+      .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain .vip-detail-contain {
+        width: 830px;
+        padding: 40px; }
+        .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain .vip-detail-contain .vip-pic {
+          float: left;
+          width: 90px;
+          height: 90px;
+          border-radius: 50%;
+          background: #cfc;
+          margin-right: 20px; }
+        .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain .vip-detail-contain .vip-text {
+          float: left;
+          padding-top: 10px;
+          font-size: 14px;
+          color: #4c4c4c; }
+          .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain .vip-detail-contain .vip-text .vip-text-top {
+            line-height: 30px; }
+            .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain .vip-detail-contain .vip-text .vip-text-top .orange-font {
+              color: #ff8800; }
+          .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain .vip-detail-contain .vip-text .vip-text-bottom {
+            line-height: 43px; }
+            .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain .vip-detail-contain .vip-text .vip-text-bottom .vip-times {
+              margin-right: 15px; }
+            .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain .vip-detail-contain .vip-text .vip-text-bottom .orange-font {
+              color: #ff8800; }
+      .menber-center-contain .menber-center-main .menber-center-right .vip-level-contain #container {
+        margin: 0 auto;
+        width: 800px;
+        height: 370px; }
+    .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .notices-text .vip-all-level-pic {
+      width: 100%;
+      height: 48px;
+      background: url("../../image/vip-level-pic.png") no-repeat;
+      background-size: 100%;
+      background-position: center; }
+    .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .notices-text .vip-all-level-text {
+      width: 100%;
+      height: 54px; }
+      .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .notices-text .vip-all-level-text .vip-all-level-font {
+        text-align: center;
+        width: 130px;
+        float: left;
+        height: 54px; }
+        .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .notices-text .vip-all-level-text .vip-all-level-font, .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .notices-text .vip-all-level-text .vip-all-level-font * {
+          color: #000;
+          font-size: 14px; }
+    .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .notices-text p {
+      font-size: 14px; }
+    .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .notices-text .notices-text-padding {
+      padding: 10px 0; }
+    .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .level-descript-table {
+      width: 100%;
+      height: 178px;
+      background: #e5e5e5;
+      text-align: center; }
+      .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .level-descript-table thead {
+        color: #4c4c4c;
+        font-size: 14px;
+        background: #eeeeee; }
+        .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .level-descript-table thead tr {
+          height: 38px; }
+      .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .level-descript-table tbody {
+        color: #000;
+        font-size: 14px;
+        background: #fff; }
+        .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .level-descript-table tbody tr {
+          height: 68px; }
+      .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .level-descript-table td {
+        width: 110px; }
+      .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .level-descript-table td:first-child {
+        width: 141px; }
+    .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain h3 {
+      padding: 20px 0 20px 30px; }
+    .menber-center-contain .menber-center-main .menber-center-right .menber-center-right-contain .menber-vip-notices {
+      font-size: 14px;
+      padding: 16px 0;
+      margin-bottom: 224px; }

@@ -1,0 +1,77 @@
+.wupin-list {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px; }
+  .wupin-list td {
+    vertical-align: top; }
+  .wupin-list tr > td:last-child .wupin-box {
+    margin-right: 0; }
+  .wupin-list .wupin-box {
+    float: left;
+    width: 190px;
+    height: 250px;
+    padding: 10px 10px 0 10px;
+    border: 1px solid #ddd;
+    margin: 0 27px 30px 0;
+    /*CSS3 extras*/ }
+    .wupin-list .wupin-box > * {
+      padding: 2px 0; }
+    .wupin-list .wupin-box img {
+      width: 188px;
+      height: 150px;
+      padding: 0;
+      margin: 0; }
+    .wupin-list .wupin-box .wupin-name {
+      font-size: 18px;
+      color: #e51c23; }
+    .wupin-list .wupin-box .wupin-content {
+      font-size: 14px;
+      color: #000; }
+    .wupin-list .wupin-box a.tooltip {
+      outline: none;
+      font-size: 14px;
+      color: #4fc3f7; }
+    .wupin-list .wupin-box a.tooltip strong {
+      line-height: 30px; }
+    .wupin-list .wupin-box a.tooltip:hover {
+      text-decoration: none; }
+    .wupin-list .wupin-box a.tooltip span {
+      width: 200px;
+      z-index: 10;
+      display: none;
+      padding: 5px 20px;
+      margin-top: 30px;
+      transform: translate(-50%, 0);
+      line-height: 16px;
+      background: #fff; }
+    .wupin-list .wupin-box a.tooltip:hover span {
+      display: inline;
+      position: absolute;
+      border: 2px solid #FFF;
+      color: #888; }
+    .wupin-list .wupin-box .callout {
+      z-index: 20;
+      position: absolute;
+      border: 0;
+      top: -14px;
+      left: 120px; }
+    .wupin-list .wupin-box a.tooltip span {
+      border-radius: 2px;
+      box-shadow: 0px 1px 8px 1px #999; }
+    .wupin-list .wupin-box .wupin-longname {
+      width: 237px; }
+  .wupin-list tr:nth-child(2) > td > .wupin-box {
+    height: 280px; }
+    .wupin-list tr:nth-child(2) > td > .wupin-box .wupin-content {
+      height: 61px; }
+  .wupin-list tr:nth-child(6) > td > .wupin-box {
+    height: 220px; }
+
+.notices-title {
+  font-size: 18px;
+  color: #e51c23; }
+
+.notice-text {
+  font-size: 14px;
+  color: #000;
+  margin-bottom: 70px; }

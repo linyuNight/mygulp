@@ -1,0 +1,63 @@
+body {
+  background: #f5f5f5; }
+
+.header-bottom-contain a:nth-child(1) span {
+  color: #000 !important; }
+
+.header-bottom-contain a:nth-child(4) span {
+  color: #ff8800 !important; }
+
+.jinyunwupin-main-right {
+  float: right;
+  width: 955px;
+  height: auto;
+  background: #fff;
+  padding: 30px 0 0 25px; }
+
+.zhuangyunjiaocheng-main-right {
+  float: right;
+  width: 920px !important;
+  height: auto;
+  background: #fff;
+  padding: 30px; }
+  .zhuangyunjiaocheng-main-right .zhuangyunjiaocheng-title {
+    font-size: 28px;
+    color: #000;
+    font-weight: normal;
+    width: 100%;
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+    margin-bottom: 30px; }
+  .zhuangyunjiaocheng-main-right .jiaocheng-step {
+    margin-bottom: 20px; }
+    .zhuangyunjiaocheng-main-right .jiaocheng-step .jiaocheng-left-icon {
+      vertical-align: middle;
+      margin-right: 8px; }
+    .zhuangyunjiaocheng-main-right .jiaocheng-step .regist-text {
+      vertical-align: middle;
+      display: inline-block;
+      font-size: 18px;
+      color: #000; }
+    .zhuangyunjiaocheng-main-right .jiaocheng-step .jiaocheng-descript {
+      margin: 0 auto;
+      width: 840px;
+      font-size: 14px;
+      line-height: 16px;
+      padding: 15px 0;
+      color: #000; }
+      .zhuangyunjiaocheng-main-right .jiaocheng-step .jiaocheng-descript .font-blue {
+        color: #4fc3f7; }
+    .zhuangyunjiaocheng-main-right .jiaocheng-step .jiaocheng-pic {
+      display: block;
+      margin: 0 auto;
+      width: 840px;
+      height: auto;
+      padding: 0;
+      margin: 0;
+      position: relative;
+      left: 32px; }
+    .zhuangyunjiaocheng-main-right .jiaocheng-step .jiaocheng-descript-last1 {
+      padding-bottom: 180px; }
+    .zhuangyunjiaocheng-main-right .jiaocheng-step .jiaocheng-descript-last2 {
+      padding-bottom: 280px; }

@@ -1,0 +1,9 @@
+.menber-center-contain {
+  width: 100%;
+  min-width: 1200px;
+  padding-top: 48px;
+  padding-bottom: 40px; }
+  .menber-center-contain .menber-center-main {
+    margin: 0 auto;
+    width: 1200px;
+    height: auto; }

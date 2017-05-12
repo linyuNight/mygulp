@@ -1,0 +1,53 @@
+body {
+  background: #ccc; }
+
+.header-bottom-contain a:nth-child(1) span {
+  color: #000 !important; }
+
+.header-bottom-contain a:nth-child(4) span {
+  color: #ff8800 !important; }
+
+.jinyunwupin-main {
+  margin: 0 auto;
+  width: 1200px;
+  height: auto;
+  padding-top: 29px;
+  padding-bottom: 23px; }
+  .jinyunwupin-main .jinyunwupin-main-left {
+    float: left;
+    width: 200px;
+    height: auto;
+    background: #fff;
+    padding-bottom: 30px; }
+    .jinyunwupin-main .jinyunwupin-main-left .left-title {
+      width: 170px;
+      height: 40px;
+      padding-left: 28px;
+      line-height: 40px;
+      font-size: 18px;
+      background: #ffe0b2;
+      border-left: 2px solid #ff8800; }
+    .jinyunwupin-main .jinyunwupin-main-left .left-problem {
+      width: 170px;
+      height: 36px;
+      line-height: 36px;
+      padding-left: 30px;
+      font-size: 18px; }
+    .jinyunwupin-main .jinyunwupin-main-left .left-item {
+      width: 150px;
+      height: 32px;
+      line-height: 32px;
+      padding-left: 50px;
+      font-size: 14px; }
+    .jinyunwupin-main .jinyunwupin-main-left .left-active {
+      color: #ff8800; }
+    .jinyunwupin-main .jinyunwupin-main-left > * {
+      cursor: pointer; }
+    .jinyunwupin-main .jinyunwupin-main-left > *:hover {
+      color: #ff8800; }
+  .jinyunwupin-main .jinyunwupin-main-right {
+    float: right;
+    width: 955px;
+    height: auto;
+    background: #fff;
+    padding: 30px 0 0 25px; }

@@ -1,0 +1,50 @@
+.lianxiwomen-banner {
+  width: 100%;
+  height: 306px;
+  min-width: 1200px;
+  background: url("../../image/lianxiwomen/banner.png") center no-repeat;
+  background-size: cover;
+  margin-bottom: 12px; }
+
+.lianxiwomen-contain {
+  margin: 0 auto;
+  width: 960px;
+  height: auto; }
+  .lianxiwomen-contain .containt-left-pic {
+    vertical-align: middle;
+    margin-right: 7px; }
+  .lianxiwomen-contain .containt-title {
+    display: inline-block;
+    vertical-align: middle;
+    *zoom: 1;
+    *display: inline;
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: normal;
+    height: 40px; }
+  .lianxiwomen-contain .company-introduce .containt-text {
+    font-size: 14px;
+    color: #666666;
+    margin-bottom: 16px; }
+    .lianxiwomen-contain .company-introduce .containt-text .containt-text-bold {
+      color: #000;
+      font-weight: bold; }
+  .lianxiwomen-contain .company-introduce .contain-center-pic {
+    margin-bottom: 18px; }
+    .lianxiwomen-contain .company-introduce .contain-center-pic .contain-center-pic1 {
+      margin-left: 103px;
+      margin-right: 64px; }
+    .lianxiwomen-contain .company-introduce .contain-center-pic .contain-center-pic2 {
+      margin-right: 64px; }
+  .lianxiwomen-contain .contact-us .contact-us-left-title {
+    font-size: 14px;
+    font-weight: bold; }
+  .lianxiwomen-contain .contact-us .contact-us-text {
+    font-size: 14px;
+    color: #666666; }
+    .lianxiwomen-contain .contact-us .contact-us-text .contact-us-text-orange {
+      color: #ff8800; }
+  .lianxiwomen-contain .contact-us .left-padding {
+    padding-left: 36px; }
+  .lianxiwomen-contain .contact-us .bottom-margin {
+    margin-bottom: 18px; }
