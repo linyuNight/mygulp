@@ -1,0 +1,24 @@
+.lipeitiaokuan-right{
+	float:right;
+	width:920px;
+	padding:20px 30px 30px 30px;
+	background:#fff;
+	.lipeitiaokuan-title{
+		width:880px;
+		height:52px;
+		padding-left:40px;
+		line-height: 52px;
+		font-size: 20px;
+		font-weight:bold;
+		color:#ff8800;
+		border-bottom: 1px solid #ddd;
+	}
+	.lipeitiaokuan-contain{
+		width:840px;
+		padding:30px 40px 0 40px;
+		p{
+			line-height: 30px;
+			font-size:16px;
+		}
+	}
+}

@@ -1,0 +1,82 @@
+$orange:#ff8800;
+body{
+	background:#f5f5f5;
+}
+.header-bottom-contain{
+	a:nth-child(1){
+	    span{
+	      color:#000!important;
+	    }
+	}
+	a:nth-child(4){
+	    span{
+	      color:$orange!important;
+	    }
+	}
+}
+
+
+.jinyunwupin-main-right{
+		float: right;
+	    width: 955px;
+	    height: auto;
+	    background: #fff;
+	    padding: 30px 0 0 25px;
+	}
+.zhuangyunjiaocheng-main-right{
+	float: right;
+	width:920px!important;
+    height: auto;
+    background: #fff;
+    padding:30px;
+	.zhuangyunjiaocheng-title{
+		font-size: 28px;
+		color:#000;
+		font-weight: normal;
+		width:100%;
+		text-align: center;
+		height:35px;
+		line-height: 35px;
+		margin-bottom: 30px;
+	}
+	.jiaocheng-step{
+		margin-bottom: 20px;
+		.jiaocheng-left-icon{
+			vertical-align: middle;
+			margin-right: 8px;
+		}
+		.regist-text{
+			vertical-align: middle;
+			display: inline-block;
+			font-size: 18px;
+			color:#000;
+		}
+		.jiaocheng-descript{
+			margin:0 auto;
+			width:840px;
+			font-size: 14px;
+			line-height: 16px;
+			padding:15px 0;
+			color:#000;
+			.font-blue{
+				color:#4fc3f7;
+			}
+		}
+		.jiaocheng-pic{
+			display: block;
+			margin:0 auto;
+			width:840px;
+			height:auto;
+			padding:0;
+			margin:0;
+			position: relative;
+			left:32px;
+		}
+		.jiaocheng-descript-last1{
+			padding-bottom: 180px;
+		}
+		.jiaocheng-descript-last2{
+			padding-bottom: 280px;
+		}
+	}
+}

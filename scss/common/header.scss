@@ -1,0 +1,81 @@
+$orange:#ff8800;
+$minwidth:1200px;
+.header{
+	width:100%;
+	min-width: $minwidth;
+	height:auto;
+	.header-top-contain{
+		width:100%;
+		min-width: $minwidth;
+		height:36px;
+		border-bottom: 1px solid #e5e5e5;
+		background:#f5f5f5;
+		.header-top{
+			margin:0 auto;
+			width:1200px;
+			height:36px;
+			.welcom{
+				float:left;
+				line-height: 36px;
+				font-size: 14px;
+				color:#787878;
+			}
+			.login-contain{
+				float:right;
+				height:36px;
+				line-height: 36px;	
+			}
+			a{
+				padding:0 10px;
+				font-size: 14px;
+				color:#787878;
+				line-height: 36px;
+				text-decoration:none;
+			}
+			.login-contain-last{
+				padding-right:0
+			}
+		}
+	}
+	.header-bottom-contain{
+		width:100%;
+		min-width: 1200px;
+		background: #fff;
+		.header-bottom{
+			position:relative;
+			margin:0 auto;
+			width:1200px;
+			height:80px;
+			line-height: 80px;
+			.logo{
+				position:absolute;
+				left:0;
+				top:0;
+				z-index: 100;
+				font-size:30px;
+				color:#ff8800;
+				border:none;
+			}
+			.nav{
+				float:right;
+				height:80px;
+				line-height: 80px;
+				span{
+					display: inline-block;
+					padding:0 26px;
+					cursor: pointer;
+					font-size: 18px;
+					color:#000;
+					*zoom:1;
+					*display: inline;
+					&:hover{
+						color:$orange;
+					}
+				}
+				.nav-last{
+					padding-right: 0;
+				}
+			}
+		}
+	}
+}
